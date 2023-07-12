@@ -1,0 +1,7 @@
+content for merge tool
+<<<<<<< HEAD
+test123
+||||||| 055c535
+=======
+456
+>>>>>>> vinoth
